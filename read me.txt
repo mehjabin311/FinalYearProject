@@ -1,0 +1,5 @@
+
+check epoc size = 100
+
+install main file app.py
+then train data using fruit_mode.py & leaf_model.py

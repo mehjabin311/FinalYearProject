@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disease Prediction</string>
+    <string name="ip_address_system">आयपी पत्ता(प्रणाली)</string>
+    <string name="change_language">भाषा बदला</string>
+    <string name="connect_to_server">सर्व्हरशी कनेक्ट करा</string>
+    <string name="select_photo">फोटो निवडा</string>
+    <string name="take_photo">फोटो घ्या</string>
+    <string name="detect_disease">रोग शोधा</string>
+    <string name="no_connection">इंटरनेट कनेक्शन नाही! अनुवादित केले जाऊ शकत नाही!</string>
+    <string name="leaf_disease_prediction">लीफ रोग अंदाज</string>
+    <string name="fruit_disease_prediction">फळ रोग अंदाज</string>
+    <string name="pomegranate_disease_prediction">डाळिंब रोग अंदाज</string>
+</resources>

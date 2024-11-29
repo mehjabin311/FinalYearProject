@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Disease Prediction</string>
+    <string name="ip_address_system">Ip Address(System)</string>
+    <string name="change_language">Change Language</string>
+    <string name="connect_to_server">Connect To Server</string>
+    <string name="select_photo">Select photo</string>
+    <string name="take_photo">take photo</string>
+    <string name="detect_disease">Detect Disease</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+    <string name="leaf_disease_prediction">Leaf Disease Prediction</string>
+    <string name="fruit_disease_prediction">Fruit Disease Prediction</string>
+    <string name="pomegranate_disease_prediction">POMEGRANATE DISEASE PREDICTION</string>
+</resources>

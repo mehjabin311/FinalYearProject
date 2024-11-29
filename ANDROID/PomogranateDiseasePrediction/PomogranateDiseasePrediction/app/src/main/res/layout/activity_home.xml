@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/pomegranate_disease_prediction"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+
+
+    <Button
+        android:id="@+id/btnDisease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/fruit_disease_prediction"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnCropPred"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/leaf_disease_prediction"
+        android:textColor="#FFFFFF" />
+
+
+</LinearLayout>
